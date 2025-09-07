@@ -34,17 +34,17 @@ The following business-critical metrics were analyzed across all platforms:
 - ***Average Rating*** – Customer satisfaction metric across all products
 
 ### 📊 Secondary KPIs
-***Total Sales by Fat Content*** 
-- Objective: Identify the performance of different item types in terms of total sales.
-- Additional KPI Metrics: Assess how other KPIs (Average Sales, Number of Items, Average Rating) vary with fat content.
-***Total Sales by Item Type*** 
-- Objective: Compare total sales across different outlets segmented by fat content.
-- Additional KPI Metrics: Assess how other KPIs (Average Sales, Number of Items, Average Rating) vary with fat content.
-***Fat Content By Outlet For Total Sales***
-- Objective: Compare total sales across different outlets segmented by fat content.
-- Additional KPI Metrics: Assess how other KPIs (Average Sales, Number of Items, Average Rating) vary with fat content.
-***Total Sales By Outlet Establishment***
-- Objective: Evaluate how the age or type of outlet establishment influences total sales.
+- ***Total Sales by Fat Content*** 
+1. Objective: Identify the performance of different item types in terms of total sales.
+2. Additional KPI Metrics: Assess how other KPIs (Average Sales, Number of Items, Average Rating) vary with fat content.
+- ***Total Sales by Item Type*** 
+1. Objective: Compare total sales across different outlets segmented by fat content.
+2. Additional KPI Metrics: Assess how other KPIs (Average Sales, Number of Items, Average Rating) vary with fat content.
+- ***Fat Content By Outlet For Total Sales***
+1. Objective: Compare total sales across different outlets segmented by fat content.
+2. Additional KPI Metrics: Assess how other KPIs (Average Sales, Number of Items, Average Rating) vary with fat content.
+- ***Total Sales By Outlet Establishment***
+1. Objective: Evaluate how the age or type of outlet establishment influences total sales.
 
 ---
 

@@ -253,9 +253,6 @@ https://github.com/Shibaditya00/BlinkIT-Analysis-Project/blob/main/Screenshot%20
 ### Excel Dashboard
 https://github.com/Shibaditya00/BlinkIT-Analysis-Project/blob/main/Screenshot%20(Excel).png
 
-### Python Visualizations
-![Python Analysis](images/python_analysis.png)
-
 ---
 
 ## 🤝 Contributing

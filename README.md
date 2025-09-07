@@ -32,14 +32,19 @@ The following business-critical metrics were analyzed across all platforms:
 - **Average Sales** – Mean sales value per transaction
 - **Number of Items** – Total quantity of products sold
 - **Average Rating** – Customer satisfaction metric across all products
-- **Total Outlets** – Number of active BlinkIT outlets
 
 ### 📊 Secondary KPIs
-- **Sales by Fat Content** – Performance analysis by Low Fat vs Regular products
-- **Sales by Item Type** – Category-wise revenue breakdown
-- **Sales by Outlet** – Performance comparison across different outlet types
-- **Geographic Distribution** – Location-based sales analysis
-- **Outlet Performance by Age** – Analysis based on outlet establishment years
+- **Total Sales by Fat Content** 
+Objective: Identify the performance of different item types in terms of total sales.
+Additional KPI Metrics: Assess how other KPIs (Average Sales, Number of Items, Average Rating) vary with fat content.
+- **Total Sales by Item Type** 
+Objective: Compare total sales across different outlets segmented by fat content.
+Additional KPI Metrics: Assess how other KPIs (Average Sales, Number of Items, Average Rating) vary with fat content.
+- **Fat Content By Outlet For Total Sales**
+Objective: Compare total sales across different outlets segmented by fat content.
+Additional KPI Metrics: Assess how other KPIs (Average Sales, Number of Items, Average Rating) vary with fat content.
+- **Total Sales By Outlet Establishment**
+Objective: Evaluate how the age or type of outlet establishment influences total sales.
 
 ---
 

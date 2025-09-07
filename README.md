@@ -10,6 +10,13 @@ This project presents a comprehensive analysis of **BlinkIT** (India's Last Minu
 
 ---
 
+🔗 GitHub Repository: <a href="https://github.com/Shibaditya00/BlinkIT-Analysis-Project">BlinkIT Analysis Project</a>
+
+---
+
+Dataset: <a href="https://github.com/Shibaditya00/BlinkIT-Analysis-Project/blob/main/BlinkIT%20Grocery%20Dataset.xlsx">Dataset Link</a>
+
+---
 ## 🛠️ Technology Stack
 
 This project leverages four powerful analytical tools to provide comprehensive insights:
@@ -241,10 +248,10 @@ jupyter notebook
 ## 📸 Dashboard Screenshots
 
 ### Power BI Dashboard
-![Power BI Dashboard](images/powerbi_dashboard.png)
+https://github.com/Shibaditya00/BlinkIT-Analysis-Project/blob/main/Screenshot%20(Power%20BI).png
 
 ### Excel Dashboard
-![Excel Dashboard](images/excel_dashboard.png)
+https://github.com/Shibaditya00/BlinkIT-Analysis-Project/blob/main/Screenshot%20(Excel).png
 
 ### Python Visualizations
 ![Python Analysis](images/python_analysis.png)
@@ -254,15 +261,6 @@ jupyter notebook
 ## 🤝 Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request. For major changes, please open an issue first to discuss what you would like to change.
-
----
-
-## 📧 Contact
-
-**Your Name**  
-📧 Email: your.email@example.com  
-💼 LinkedIn: [your-linkedin-profile](https://linkedin.com/in/your-profile)  
-🐙 GitHub: [@yourusername](https://github.com/yourusername)
 
 ---
 
